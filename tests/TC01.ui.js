@@ -1,3 +1,4 @@
+/// ignore file ////
 const { test, expect } = require('@playwright/test');
 
 
